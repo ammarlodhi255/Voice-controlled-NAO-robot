@@ -72,4 +72,5 @@ language: enu
 u:(workout) Suurre iam starting my workout $work=1
 u:(clap) Suurre thing $clap=1
 u:(dance) You waant mee two dance? OKAY $dance=1
-u:(show me your degrees of freedom) OKAY Iam on it $dof=1
+u:(degrees of freedom) OKAY Iam on it $dof=1
+u:(pound it) pound it $pound=1  
