@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="pushups-bb3cb5" installOnlyAtStartup="false" version="0.0.0">
+<package installOnlyAtStartup="false" uuid="hey_there-e52d98" version="0.0.0">
  <names>
-  <name lang="en_US">pushups</name>
+  <name lang="en_US">hey_there</name>
  </names>
  <descriptionLanguages>
   <language>en_US</language>
  </descriptionLanguages>
  <contents>
-  <behaviorContent path="pushups">
+  <behaviorContent path="hey_there">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>

@@ -1,0 +1,4 @@
+topic: ~ExampleDialog()
+language: enu
+
+u:(Greet _*) Hello $1 $playAGame=1

@@ -1,0 +1,4 @@
+topic: ~ExampleDialog()
+language: enu
+
+u:(bye to _*) Good Bye $1 $playAGame=1

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="pushups-bb3cb5" installOnlyAtStartup="false" version="0.0.0">
+<package uuid="wave_goodbye-21babe" installOnlyAtStartup="false" version="0.0.0">
  <names>
-  <name lang="en_US">pushups</name>
+  <name lang="en_US">wave_goodbye</name>
  </names>
  <descriptionLanguages>
   <language>en_US</language>
  </descriptionLanguages>
  <contents>
-  <behaviorContent path="pushups">
+  <behaviorContent path="wave_goodbye">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>

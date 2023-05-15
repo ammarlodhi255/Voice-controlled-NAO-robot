@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="pushups-bb3cb5" installOnlyAtStartup="false" version="0.0.0">
+<package uuid="clapping_2-35c988" version="0.0.0" installOnlyAtStartup="false">
  <names>
-  <name lang="en_US">pushups</name>
+  <name lang="en_US">clapping_2</name>
  </names>
  <descriptionLanguages>
   <language>en_US</language>
  </descriptionLanguages>
  <contents>
-  <behaviorContent path="pushups">
+  <behaviorContent path="clapping_2">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
